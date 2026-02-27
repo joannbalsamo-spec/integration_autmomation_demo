@@ -1,6 +1,6 @@
 # integration_automation_demo
 
-Identity-Aware Integration Architecture Demo
+Synthetic identity-aware SaaS integration modeling workbook demonstrating governance-embedded implementation design.
 
 Overview
 This repository contains a demonstration workbook designed to model identity-aware SaaS integrations in K–12 environments.
